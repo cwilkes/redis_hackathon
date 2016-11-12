@@ -1,1 +1,1 @@
-alias redis-server='~/Documents/workspace/redis_hackathon/redis-unstable/src/redis-server  --loadmodule ./rpn.so'
+alias run='~/Documents/workspace/redis-unstable/src/redis-server  --loadmodule ./src/rpn.so'
